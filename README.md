@@ -3,8 +3,8 @@
     <td><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></td>
     <td>
       <ul>
-        <li>Hey there, I am <strong>Franklin Thai!</strong></li>
-        <li>I’m a <em>4th Year in Computer Science</em> at <a href="https://www.washington.edu/">University of Washington</a> and a <em>Software Engineer Intern</em> at  <a href="https://www.streetgrace.org/team-board">Street Grace</a>.</li>
+        <li>Hey there👋, I am <strong>Franklin Thai!</strong></li>
+        <li>I’m a <em>4th Year in Computer Science💻</em> at <a href="https://www.washington.edu/">University of Washington</a>💜 and a <em>Software Engineer Intern</em> at  <a href="https://www.streetgrace.org/team-board">Street Grace</a>.</li>
         <li>Always eager to learn and excited to explore new technologies!</li>
       </ul>
       <h4>Connect with me:</h4>
