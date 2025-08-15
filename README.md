@@ -4,7 +4,7 @@
     <td>
       <ul>
         <li>Hey there👋, I am <strong>Franklin Thai!</strong></li>
-        <li>I’m a <em>Junior in Computer Science💻</em> at <a href="https://www.washington.edu/">University of Washington</a>💜.</li>
+        <li>I’m a <em>Senior in Computer Science💻</em> at <a href="https://www.washington.edu/">University of Washington</a>💜.</li>
         <li>Always eager to learn and excited to explore new technologies!</li>
       </ul>
       <h4>Connect with me:</h4>
